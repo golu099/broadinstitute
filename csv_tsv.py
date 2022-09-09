@@ -22,3 +22,6 @@ csv_file.close()
 tsv_file.close()
 ##see if anything changes part 3
 ##when you change repo on VS make ue you dont have unsaved changes or else it goes crazy 
+##1. git add csv_tsv.py
+##2. git commit -m csv_tsv.py
+##3, git push --set-upstream origin ____(wherever you wanna put it)
